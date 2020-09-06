@@ -226,6 +226,7 @@ body {
     border-radius: 50%;
     justify-content: center;
     align-items: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .social-list-svg {
@@ -316,6 +317,8 @@ body {
     border-radius: 4px;
     justify-content: center;
     align-items: center;
+    /* transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 
 .advantages-link-border:hover {
@@ -326,7 +329,7 @@ body {
 }
 
 .customers-icon1 {
-    widh: 44px;
+    width: 44px;
     height: 49px;
 }
 
