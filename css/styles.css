@@ -112,6 +112,7 @@ a {
 }
 
 .call-to-activity {
+    margin-bottom: 20px;
     text-transform: uppercase;
     color: var(--white);
 }
@@ -139,6 +140,7 @@ margin: 0 auto;
 
 
 .footer {
+    height: 252px;
     padding: 60px;
 }
 
