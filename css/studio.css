@@ -162,6 +162,7 @@ body {
 
 .number-icon,
 .adress-icon {
+    fill: #757575;
     width: 16px;
     height: 12px;
     background-size: contain;
