@@ -166,16 +166,14 @@ body {
     width: 16px;
     height: 12px;
     background-size: contain;
-}
-
-.menu-item:hover {
-    fill: #2196F3;
-}
-
-.adress-icon,
-.number-icon {
     margin-right: 10px;
 }
+
+
+/* .menu-item:hover {
+    fill: #2196F3;
+    color: #2196F3;
+} */
 
 
 .advantages-title::before {
