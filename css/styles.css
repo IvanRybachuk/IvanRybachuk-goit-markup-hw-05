@@ -16,8 +16,10 @@ html {
 *,
 *::before,
 *::after {
+    /* outline: 1px solid red; */
     box-sizing: inherit;
 }
+
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -297,4 +299,12 @@ header {
     background: var(--accept-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     cursor: pointer;
+}
+
+
+.icon-logo-thumb {
+    justify-content: center;
+    align-items: center;
+    fill: white;
+    margin-left: 10px;
 }
